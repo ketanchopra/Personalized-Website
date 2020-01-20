@@ -1,0 +1,161 @@
+body {
+color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.top_container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Playfair Display', serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+.circular {
+  border-radius: 100%;
+  height: 250px;
+}
+
+.Design-picture {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.RPA-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 5px;
+  border-color: #EAF6F6;
+  margin: 100px auto;
+
+}
+a{
+  color: #11999E;
+font:  'Playfair Display', serif;
+margin: 10px 10px;
+text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top:40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+.copyright{
+  color:#EAF6F6;
+}
+.middle-container{
+  margin: 100px 0 ;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+.contact-para{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	-moz-box-shadow:inset 0px 1px 0px 0px #11999e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #11999e;
+	box-shadow:inset 0px 1px 0px 0px #11999e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+	text-indent:0;
+	border:1px solid #11cdd4;
+	display:inline-block;
+	color:#ffffff;
+	font-family:'Playfair Display', serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:42px;
+	line-height:42px;
+	width:120px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+	background-color:#11999e;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
